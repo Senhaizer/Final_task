@@ -29,7 +29,7 @@
 2. Блок-схема алгоритма:
 > P.S. В блок-схеме не указаны 'switch', функции ввода/вывода в консоль.
 
-> ![Block-diagram](Final project.png)
+> ![Block-diagram]([Final project.png](https://github.com/Senhaizer/Final_task/blob/main/Final%20project.png))
 
 3. Вы читаете данный фаил 'README.md'.
 
@@ -79,6 +79,7 @@ Console.Write("→ ");
 PrintArray(newArray);
 
 // Функция: Вывод команд для работы с программой
+
 void Commands()
 {
     Console.WriteLine();
@@ -90,6 +91,7 @@ void Commands()
 }
 
 // Функция ввода
+
 string ReadInput(string msg)
 {
     Console.Write(msg);
@@ -97,6 +99,7 @@ string ReadInput(string msg)
 }
 
 //  Функция вывода массива в терминал
+
 void PrintArray(string[] array)
 {
     Console.Write("[ ");
