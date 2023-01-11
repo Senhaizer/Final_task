@@ -31,11 +31,10 @@
 
 > ([Final project.png](https://github.com/Senhaizer/Final_task/blob/main/Final%20project.png))
 
-3. Вы читаете данный фаил 'README.md'.
+3. Вы читаете данный фаил ['README.md'](https://github.com/Senhaizer/Final_task/blob/main/README.md).
 
-Код программы:
-
-'''cs
+**Код программы:**
+'''
 
 Commands();
 string[] array = new string[] {};
@@ -111,5 +110,5 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
-
 '''
+***
