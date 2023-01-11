@@ -34,7 +34,9 @@
 3. Вы читаете данный фаил 'README.md'.
 
 Код программы:
+
 '''cs
+
 Commands();
 string[] array = new string[] {};
 
@@ -109,4 +111,5 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+
 '''
