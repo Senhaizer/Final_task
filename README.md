@@ -35,7 +35,7 @@
 4. Вы можете найти программу на ветке ['master'](https://github.com/Senhaizer/Final_task/blob/main/Program_final.cs).
 
 **Код программы:**
-
+'''cs
 Commands();
 string[] array = new string[] {};
 
@@ -80,7 +80,6 @@ Console.Write("→ ");
 PrintArray(newArray);
 
 // Функция: Вывод команд для работы с программой
-
 void Commands()
 {
     Console.WriteLine();
@@ -92,7 +91,6 @@ void Commands()
 }
 
 // Функция ввода
-
 string ReadInput(string msg)
 {
     Console.Write(msg);
@@ -100,7 +98,6 @@ string ReadInput(string msg)
 }
 
 //  Функция вывода массива в терминал
-
 void PrintArray(string[] array)
 {
     Console.Write("[ ");
@@ -110,4 +107,9 @@ void PrintArray(string[] array)
     }
     Console.Write("] ");
 }
+Footer
+© 2023 GitHub, Inc.
+Footer navigation
+Terms
+'''
 ***
