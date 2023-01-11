@@ -26,10 +26,10 @@
 ## **Решение**
 
 1. Вы находитесь в созданном репозитории 'Final_task'.
-2. Блок-схема алгоритма:
+2. Ссылка на блок-схему алгоритма:
 > P.S. В блок-схеме не указаны 'switch', функции ввода/вывода в консоль.
 
->!([Final project.png](https://github.com/Senhaizer/Final_task/blob/main/Final%20project.png))
+> ([Final project.png](https://github.com/Senhaizer/Final_task/blob/main/Final%20project.png))
 
 3. Вы читаете данный фаил 'README.md'.
 
