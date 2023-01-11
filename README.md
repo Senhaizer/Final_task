@@ -29,7 +29,7 @@
 2. Блок-схема алгоритма:
 > P.S. В блок-схеме не указаны 'switch', функции ввода/вывода в консоль.
 
-> ![Block-diagram]([Final project.png](https://github.com/Senhaizer/Final_task/blob/main/Final%20project.png))
+>!([Final project.png](https://github.com/Senhaizer/Final_task/blob/main/Final%20project.png))
 
 3. Вы читаете данный фаил 'README.md'.
 
